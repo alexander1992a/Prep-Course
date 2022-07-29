@@ -1,0 +1,7 @@
+Variables: es un espacio en la  memoria donde se guarda algo.
+String: es un hilo o cadena que puede ser letras,números o símbolos.Siempre y cuando vayan entre comillas("",'')
+Funciones: es un pedazo de código que nos ahorra para no tener que escribir lo mismo muchas veces.
+Argumentos: Representan los valores que pasamos a las variables cuando llamamos a la función.
+Return: Nos permite que la función nos devuelva algo e inmediatamente detiene su ejecución.
+Declaraciones if: controla la corriente del código evaluando si algo es verdadero o falso
+Valores Booleanos:Es un tipo de dato que sólo tiene 2 posibles valores; true o false.Son Lógicos.

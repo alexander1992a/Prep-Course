@@ -1,0 +1,7 @@
+for : Permite ejecutar un código una cantidad determinada de veces siempre y cuando se cumpla una condición.
+
+&& : si tenemos 3 condiciones. se necesita que las 3 se cumplan para arrojar verdadero.Si una sola basta para arrojar falso.
+
+|| : si tenemos 3 condiciones. Con una sola que se cumpla basta para que arroje verdadero.No se tiene que cumplir ninguna para que arroje falso.
+
+! : es lo mismo que decir no es igual a, devuelve los contrario de una expresión o condición ya sea verdadera o falsa.
